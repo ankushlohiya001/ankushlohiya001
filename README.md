@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankushlohiya
-- 👀 I’m interested in every prospect of science.
+- 👀 I’m interested in every aspect of science.
 - 🌱 I’m currently learning Rust, opengl and many more.
 - 💞️ I’m looking to collaborate on graphics.
 - 📫 How to reach me ...
